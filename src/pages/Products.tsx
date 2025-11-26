@@ -15,7 +15,7 @@ export default function Products() {
   const [loading, setLoading] = useState(true)
   const [loadingMore, setLoadingMore] = useState(false)
   const [hasMore, setHasMore] = useState(true)
-  const [page, setPage] = useState(0)
+  const [, setPage] = useState(0)
   const [showFilters, setShowFilters] = useState(false)
   const observerRef = useRef<IntersectionObserver | null>(null)
   const loadMoreRef = useRef<HTMLDivElement>(null)
