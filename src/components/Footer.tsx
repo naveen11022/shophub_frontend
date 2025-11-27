@@ -28,8 +28,8 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: support@shophub.com</li>
-              <li>Phone: +1 234 567 890</li>
+              <li>Email: naviprasaad50@gmail.com</li>
+              <li>Phone: +91 9655955256</li>
             </ul>
           </div>
         </div>
